@@ -20,10 +20,14 @@ Planned work combines cross-dataset analysis with AI-assisted evidence synthesis
 
 ### Selected public work
 
-- **[Cancer immunology gene annotation](https://github.com/AWEyre7147/cancer-immunology-gene-annotation)** — A developing workflow for collecting annotations for supplied gene lists; currently tested with mouse gene symbols.
-- **[Ligand–receptor reference database](https://github.com/AWEyre7147/ligand-receptor-database)** — An early-stage resource bringing together published interaction data for downstream analysis.
-- **[Canine behavioral selection: machine learning](https://github.com/AWEyre7147/2013TSA-Trait-ML-Project)** — Data and Python code accompanying my published research on behavioral selection in a canine olfactory detection program.
-- **[Rice microbiome analysis](https://github.com/AWEyre7147/Rice-Microbiome)** — R scripts supporting research on the rice seed microbiome.
+**[Canine behavioral selection: machine learning](https://github.com/AWEyre7147/2013TSA-Trait-ML-Project)**  
+  Data and Python code accompanying my publication on machine learning prediction and classification of behavioral selection in a canine olfactory detection program.
+
+**[GWAS/PheWAS population structure exploration](https://github.com/AWEyre7147/GWAS-PheWAS-Structure-Exploration)**  
+  A workflow for exploring genetic population structure from PLINK-formatted genotype data through analysis and visualization.
+
+**[Ligand–receptor reference database](https://github.com/AWEyre7147/ligand-receptor-database)**  
+  A developing resource for organizing published ligand–receptor interactions to support downstream computational biology analyses.
 
 ### Research approach
 

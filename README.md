@@ -20,15 +20,14 @@ Planned work combines cross-dataset analysis with AI-assisted evidence synthesis
 
 ### Selected public work
 
-**[Canine behavioral selection: machine learning](https://github.com/AWEyre7147/2013TSA-Trait-ML-Project)**  
-  Data and Python code accompanying my publication on machine learning prediction and classification of behavioral selection in a canine olfactory detection program.
+**[DeathMap-AI: CRISPR evidence discovery](https://github.com/AWEyre7147/deathmap-ai)**  
+A developing metadata discovery and curation pipeline for CRISPR screens, preserving source evidence and experimental context to support cancer–immune research.
 
-**[GWAS/PheWAS population structure exploration](https://github.com/AWEyre7147/GWAS-PheWAS-Structure-Exploration)**  
-  A workflow for exploring genetic population structure from PLINK-formatted genotype data through analysis and visualization.
+**[2024TSA: canine behavioral genetics](https://github.com/AWEyre7147/2024tsa-gwas-validation)**  
+Computational notebooks for evaluating previously identified behavioral loci in an independent canine cohort, with within-breed GWAS and cross-breed comparisons.
 
-**[Ligand–receptor reference database](https://github.com/AWEyre7147/ligand-receptor-database)**  
-  A developing resource for organizing published ligand–receptor interactions to support downstream computational biology analyses.
-
+**[Ligand–receptor reference databases](https://github.com/AWEyre7147/ligand-receptor-database)**  
+Human and mouse ligand–receptor curation workflows that preserve source evidence, species distinctions, and complete complexes for downstream computational biology analyses.
 ### Research approach
 
 I emphasize traceable evidence, reproducible workflows, and clear distinctions between source observations, analytical results, and scientific interpretation.
